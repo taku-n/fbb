@@ -45,7 +45,7 @@
 #property indicator_style7 STYLE_DOT
 #property indicator_width7 1
 
-input int PERIOD = 12;
+input int PERIOD = 20;
 
 double fbb[];
 double sp1[];
